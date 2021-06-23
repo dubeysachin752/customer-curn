@@ -35,4 +35,7 @@ PAST_PURCHASE - Total amount of past purchase from the same store
 
 Evaluation criteria:
 
-F1 score which is the harmonic mean of precision and recall.
+F1 score, Roc_auc which is the harmonic mean of precision and recall.
+
+
+https://custmr-chrn.herokuapp.com/
